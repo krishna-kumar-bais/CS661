@@ -1,13 +1,10 @@
-Assignment 1 - CS661
+## Assignment 3 - CS661
+### Group No.: 76
+#### Krishna Kumar Bais (241110038)
+#### Milan Roy (241110042)
 
-Group No.: 76
-
-Krishna Kumar Bais (241110038)
-Milan Roy (241110042)
-
-
-Task 1: 2D Isocontour Extraction
---------------------------------
+# Task 1: 2D Isocontour Extraction
+----------------------------------
 1. Ensure that VTK and NumPy are installed before running the script.
 2. If executing the script via Command Prompt (Windows) or Terminal (Linux), make sure you are in the
    same directory as the Python script to properly utilize relative file paths.
@@ -17,8 +14,8 @@ Task 1: 2D Isocontour Extraction
    python task1.py <inputFilePath> <outputFilePath> <isoValue>
 6. The extracted contour will be saved to <outputFilePath>.
 
-Task 2: Volume Rendering
-------------------------
+# Task 2: Volume Rendering
+--------------------------
 1. Ensure that VTK is installed before running the script.
 2. If executing the script via Command Prompt (Windows) or Terminal (Linux), make sure you are in the
    same directory as the Python script to properly utilize relative file paths.
