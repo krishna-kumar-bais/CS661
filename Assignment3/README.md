@@ -1,10 +1,10 @@
-## Assignment 3 - CS661
+# Assignment 3 - CS661
 ### Group No.: 76
 #### Krishna Kumar Bais (241110038)
 #### Milan Roy (241110042)
 
 
-# Task: Particle Tracing in Steady Flow Field 
+## Task: Particle Tracing in Steady Flow Field 
 ---------------------------------------------
 1. Ensure that `VTK` and `NumPy` are installed before running the script.
 2. If executing the script via Command Prompt (Windows) or Terminal (Linux), make sure you are in the
@@ -17,7 +17,7 @@
 6. The created streamline will be saved to <outputFilePath>.
 
 
-## Notes:  
+### Notes:  
 - The input file (`tornado3d_vector.vti`) must be accessible by the script (use absolute or relative paths).  
 - The output `.vtp` file will be saved to the path specified in `<outputFilePath>`.  
 - Ensure seed coordinates are numeric (e.g., `0 0 7`).  
