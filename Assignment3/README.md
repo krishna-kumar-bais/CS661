@@ -1,7 +1,7 @@
-Assignment 3 - CS661
-Group No.: 76
-Krishna Kumar Bais (241110038)
-Milan Roy (241110042)
+## Assignment 3 - CS661
+## Group No.: 76
+## Krishna Kumar Bais (241110038)
+## Milan Roy (241110042)
 
 
 # Task: Particle Tracing in Steady Flow Field 
