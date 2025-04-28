@@ -35,6 +35,8 @@ CovidLens is a standalone web-based visualization platform, built using Python a
 
 **Run via Localhost:**<br>
  - Run the command `streamlit run Home.py`
-
+   
+**Hosted Link:**
+[Click here to visit CovidLens](https://covidlens.streamlit.app/)
 
 <br>
