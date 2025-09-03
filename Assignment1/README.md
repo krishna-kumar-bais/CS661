@@ -1,4 +1,4 @@
-# Assignment 3 - CS661
+# Assignment 1 - CS661
 ### Group No.: 76
 #### Krishna Kumar Bais (241110038)
 #### Milan Roy (241110042)
@@ -26,3 +26,4 @@
 6. The program will ask for a (Y/N) input to enable/diable Phong shading. Please not that any invalid 
    input will be considered as Y.
 7. An interactive window will appear displaying volume rendering.
+
